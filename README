@@ -35,6 +35,10 @@ Requirements
 Currently slstatus works on FreeBSD, Linux and OpenBSD.
 In order to build slstatus you need the Xlib header files.
 
+You also need to install the font awesome packs as there are icons
+in the configuration. If you are on Arch linux, you can just run: 
+sudo pacman -S ttf-font-awesome font-awesome
+in the terminal.
 
 Installation
 ------------
